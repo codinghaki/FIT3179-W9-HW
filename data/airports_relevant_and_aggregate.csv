@@ -1,0 +1,21 @@
+reference_name,name,municipality,iata_code,latitude_deg,longitude_deg,pax_24mo
+ADELAIDE,Adelaide International Airport,Adelaide,ADL,-34.947512,138.533393,17278287
+BALLINA,Ballina Byron Gateway Airport,Ballina,BNK,-28.833236,153.561471,1277967
+BRISBANE,Brisbane International Airport,Brisbane,BNE,-27.384199142456055,153.11700439453125,47800819
+CAIRNS,Cairns International Airport,Cairns,CNS,-16.878921,145.74948,9723925
+CANBERRA,Canberra Airport,Canberra,CBR,-35.3069,149.195007,5851598
+DARWIN,Darwin International Airport / RAAF Darwin,Darwin,DRW,-12.41497,130.88185,3816259
+GOLD COAST,Gold Coast Airport,Gold Coast,OOL,-28.165962,153.506641,12803778
+HAMILTON ISLAND,Hamilton Island Airport,Hamilton Island,HTI,-20.3581008911,148.95199585,1014585
+HOBART,Hobart International Airport,Hobart (Cambridge),HBA,-42.8371,147.51295,5693635
+KARRATHA,Karratha Airport,Karratha,KTA,-20.712200164799995,116.773002625,1276905
+LAUNCESTON,Launceston Airport,Launceston (Western Junction),LST,-41.544935,147.210785,2937068
+MACKAY,Mackay Airport,Mackay,MKY,-21.170816,149.182588,1891134
+MELBOURNE,Melbourne Airport,Melbourne,MEL,-37.661548,144.836432,73466424
+NEWCASTLE,Newcastle Airport,Williamtown,NTL,-32.79499816894531,151.83399963378906,2476219
+PERTH,Perth International Airport,Perth,PER,-31.94029998779297,115.96700286865234,27946091
+PROSERPINE,Proserpine Whitsunday Coast Airport,Proserpine,PPP,-20.494416,148.553583,1069245
+ROCKHAMPTON,Rockhampton Airport,Rockhampton,ROK,-23.380019,150.475359,1356880
+SUNSHINE COAST,Sunshine Coast Airport,Maroochydore,MCY,-26.593324,153.08319,3677189
+SYDNEY,Sydney Kingsford Smith International Airport,Sydney (Mascot),SYD,-33.946098,151.177002,85479560
+TOWNSVILLE,Townsville Airport / RAAF Base Townsville,Townsville,TSV,-19.252904,146.766512,3484036
