@@ -17,13 +17,12 @@
     <body>
         <div id="airport_map"></div>
 
-        <script type="text/javascript">
-            var spec2 = 'js/map_visualisation.vg.json';
-            vegaEmbed('#airport_map', spec2)
-                .then(function (result) {
-                    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-                })
-                .catch(console.error);
-        </script>
+        <script>
+          vegaEmbed('#airport_map', 'js/map_visualisation.vg.json', {
+            actions: false,
+            // 👇 Make all relative URLs resolve from your Pages site root
+            loader: { baseURL: 'https://codinghaki.github.io/FIT3179-W9-HW/' }
+          }).catch(console.error);
+    </script>
     </body>
 </html>
